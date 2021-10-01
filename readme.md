@@ -1,5 +1,5 @@
 This is a Data Analysis and Visualization Project.
 
 Use cases:
-It will predict the timings of the day on which they can get more and more customers.
-
+It will predict the timings of the day on which they can get more and more customers
+Like wise companies can improve the service by provding cabs , also charge the customers respectively
